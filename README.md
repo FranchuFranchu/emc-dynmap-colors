@@ -1,16 +1,7 @@
-# borderify
+# Earthmc nation colors
 
-**This add-on injects JavaScript into web pages. The `addons.mozilla.org` domain disallows this operation, so this add-on will not work properly when it's run on pages in the `addons.mozilla.org` domain.**
+Colors each nation according to their meganation in earthmc.net/map
 
-## What it does
+## License
 
-This extension just includes:
-
-* a content script, "borderify.js", that is injected into any pages
-under "mozilla.org/" or any of its subdomains
-
-The content script draws a border around the document.body.
-
-## What it shows
-
-* how to inject content scripts declaratively using manifest.json
+Most of the code is licensed under the 2-clause BSD license. I hereby license data.json under the 0-Clause BSD license license.
