@@ -1,0 +1,77 @@
+[
+	{
+		"name": "La Plata",
+		"nations":["argentina", "paraguay", "bolivia", "peru", "colombia", "chile", "uruguay"],
+		"color": ["#0000FF"]
+	},
+	{
+		"name": "French Empire",
+		"nations":["france", "belgium", "monaco"],
+		"color": ["#0000FF"]
+	},
+	{
+		"name": "Brazil",
+		"nations":["brazil", "los_pampas", "manabi"],
+		"color": ["#00FF00"]
+	},
+	{
+		"name": "Cuba",
+		"nations":["cordoba", "new_granada", "cuba", "nicaragua", "dominican"],
+		"color": ["#FF0000"]
+	},
+	{
+		"name": "Austria",
+		"nations":["austria", "barinas", "peru-bolivia", "saxony"],
+		"color": ["#FFFF00"]
+	},
+	{
+		"name": "spanish empire (core)",
+		"nations":["spain", "spanish-antilles", "guinea", "canarias", "portugal"],
+		"color": ["#FF8800"]
+	},
+	{
+		"name": "GRE",
+		"nations":["SPQR","Italia","Numidia","Romania","Crimea","Tzarist_Ukraine","Arabia","Wrangel"],
+		"color": ["#B833FF", "#A000F5"]
+	},
+	{
+		"name": "Russian Empire? (I Think)",
+		"nations":["Russian_Empire", "Kazan"],
+		"color": ["#00BB00"]
+	},
+	{
+		"name": "Polish Federation",
+		"nations":["poland", "west_galicia", "tasmania"],
+		"color": ["#FF8888"]
+	},
+	{
+		"name": "People Angry At Europa Pact",
+		"nations":["Francia", "Serbia", "Ancient_Egypt"],
+		"color": ["#DDFFFF"]
+	},
+	{
+		"name": "Britain/NSE",
+		"nations":["britain", "sweden", "norway"],
+		"color": ["#FF0000"]
+	},
+	{
+		"name": "Nubia",
+		"nations":["Sudan", "Nubia", "Ethiopia"],
+		"color": ["#FF44CC"]
+	},
+	{
+		"name": "Persia",
+		"nations":["Persia"],
+		"color": ["#00BB00"]
+	},
+	{
+		"name": "Israel",
+		"nations":["israel"],
+		"color": ["#0000FF"]
+	},
+	{
+		"name": "Japan",
+		"nations":["japan", "shimazu"],
+		"color": ["#FF8888"]
+	}
+]
