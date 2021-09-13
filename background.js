@@ -1,5 +1,7 @@
 // The "builtin" nation colors
 
+//let browser = chrome;
+
 let NATION_COLORS = {}
 let NATION_COLORS_FLAT = []
 

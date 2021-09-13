@@ -16,13 +16,13 @@
   },
 
   "permissions": [
-    "webRequest",
     "*://earthmc.net/map",
-    "webRequestBlocking",
-    "*://earthmc.net/map"
+    "webRequest",
+    "webRequestBlocking"
   ],
   
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["background.js"],
+    "persistent": true
   }
 }

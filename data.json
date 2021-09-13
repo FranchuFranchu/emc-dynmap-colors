@@ -5,8 +5,8 @@
 		"color": ["#0000FF"]
 	},
 	{
-		"name": "French Empire",
-		"nations":["france", "belgium", "monaco"],
+		"name": "French Empire & Francia",
+		"nations":["Francia", "france", "belgium", "monaco"],
 		"color": ["#0000FF"]
 	},
 	{
@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "People Angry At Europa Pact",
-		"nations":["Francia", "Serbia", "Ancient_Egypt"],
+		"nations":["Serbia", "Ancient_Egypt"],
 		"color": ["#DDFFFF"]
 	},
 	{
@@ -73,5 +73,11 @@
 		"name": "Japan",
 		"nations":["japan", "shimazu"],
 		"color": ["#FF8888"]
+	},
+	{
+		"name": "Greater-Quebec",
+		"nations": ["Quebec", "Baffin", "Nouvelle-France", "Maine", "Canada", "Severny", "Algonquia", "Hall", "Iroquois", "ontario"],
+		"color": ["#0044FF"]
 	}
+	
 ]
