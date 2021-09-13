@@ -36,7 +36,7 @@ fetch(new Request(browser.runtime.getURL("data.json")))
   })
 
 
-fetch("http://gitcdn.link/repo/FranchuFranchu/emc-dynmap-colors/master/data.json")
+fetch("https://raw.githubusercontent.com/FranchuFranchu/emc-dynmap-colors/master/data.json")
   .then(function(response) {
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
