@@ -3,7 +3,7 @@
   "description": "Colors each nation according to their meganation in earthmc.net/map",
   "manifest_version": 2,
   "name": "EarthMC Dynmap Meganation Colors",
-  "version": "1.0",
+  "version": "1.0.1",
   "homepage_url": "https://github.com/FranchuFranchu/emc-dynmap-colors",
   "icons": {
     "48": "icons/48.png",
