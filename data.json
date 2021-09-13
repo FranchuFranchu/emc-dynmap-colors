@@ -78,6 +78,23 @@
 		"name": "Greater-Quebec",
 		"nations": ["Quebec", "Baffin", "Nouvelle-France", "Maine", "Canada", "Severny", "Algonquia", "Hall", "Iroquois", "ontario"],
 		"color": ["#0044FF"]
+	},
+	{
+		"name": "Cascadia",
+		"nations": ["Bhutan", "Cascadia", "Colorado", "Columbia", "Greenland", "Haida", "Idaho", "Maldives", "Montana", "Koro", "North_Alaska", "October_Island", "Queen_Charlotte", "Slave_Lake" "Tlingit", "Vanuatu", "Victoria_Island", "Wyoming"],
+		"color": ["#006400"]
+	},		
+	{
+		"name": "Salish",
+		"nations": ["British_Columbia", "Alberta", "Manitoba", "Canadian_Rockies", "Acadia"],
+		"color": ["#c124df"]
+	},
+	{
+		"name": "Redwood",
+		"nations": ["Jefferson", "Oregon", "Utah", "Deseret", "RoughAndReady", "South_California", "California", "Mexican_Republic"],
+		"colour": ["#ff0000"]
 	}
+																
+
 	
 ]
