@@ -92,9 +92,16 @@
 	{
 		"name": "Redwood",
 		"nations": ["Jefferson", "Oregon", "Utah", "Deseret", "RoughAndReady", "South_California", "California", "Mexican_Republic"],
-		"colour": ["#ff0000"]
+		"color": ["#ff0000"]
+	},
+	{
+		"name": "Rio Grande",
+		"nations": ["Rio_Grande","Lone_Star","New_Mexico","Washington"],
+		"color": ["#ff0066", "#6600ff"]
+	},
+	{
+		"name": "Illinois",
+		"nations": ["Indiana","Illinois","West_Jersey","Missouri","Patagonia","North_Carolina","Michigan"],
+		"color": ["#ff0066", "#6600ff"]
 	}
-																
-
-	
 ]
