@@ -97,11 +97,11 @@
 	{
 		"name": "Rio Grande",
 		"nations": ["Rio_Grande","Lone_Star","New_Mexico","Washington"],
-		"color": ["#ff0066", "#6600ff"]
+		"color": ["#ff0000", "#6600ff"]
 	},
 	{
 		"name": "Illinois",
 		"nations": ["Indiana","Illinois","West_Jersey","Missouri","Patagonia","North_Carolina","Michigan"],
-		"color": ["#ff0066", "#6600ff"]
+		"color": ["#00ccff"]
 	}
 ]
