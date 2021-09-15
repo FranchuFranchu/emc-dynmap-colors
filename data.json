@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Cuba",
-		"nations":["cordoba", "new_granada", "cuba", "nicaragua", "dominican"],
+		"nations":["cordoba", "new_granada", "cuba", "nicaragua", "dominican", "haiti", "tabasco", "miami", "yucatan"],
 		"color": ["#FF0000"]
 	},
 	{
@@ -43,11 +43,6 @@
 		"name": "Polish Federation",
 		"nations":["poland", "west_galicia", "tasmania"],
 		"color": ["#FF8888"]
-	},
-	{
-		"name": "People Angry At Europa Pact",
-		"nations":["Serbia", "Ancient_Egypt"],
-		"color": ["#DDFFFF"]
 	},
 	{
 		"name": "Britain/NSE",
@@ -102,6 +97,6 @@
 	{
 		"name": "Illinois",
 		"nations": ["Indiana","Illinois","West_Jersey","Missouri","Patagonia","North_Carolina","Michigan"],
-		"color": ["#00ccff"]
+		"color": ["#3333ff"]
 	}
 ]
