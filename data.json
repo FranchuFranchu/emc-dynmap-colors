@@ -98,5 +98,10 @@
 		"name": "Illinois",
 		"nations": ["Indiana","Illinois","West_Jersey","Missouri","Patagonia","North_Carolina","Michigan"],
 		"color": ["#3333ff"]
+	},
+	{
+		"name": "PRR",
+		"nations": ["CCCP", "USSR", "World", "Yakutia", "Khabarovsk", "Zhilinda", "Sakha", "SovietUnion", "Siberia", "Far_East", "Northern_Russia", "Evenkia", "Lena", "Pakistan"],
+		"color": ["#0000dd", "#ffffff"]
 	}
 ]
