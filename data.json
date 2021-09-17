@@ -5,9 +5,14 @@
 		"color": ["#0000FF"]
 	},
 	{
-		"name": "French Empire & Francia",
-		"nations":["Francia", "france", "belgium", "monaco"],
+		"name": "French Empire",
+		"nations":["france", "belgium", "monaco", "switzerland"],
 		"color": ["#0000FF"]
+	},
+	{
+		"name": "Francia",
+		"nations": ["francia"],
+		"color": ["#7139b5"]
 	},
 	{
 		"name": "Brazil",
@@ -31,7 +36,7 @@
 	},
 	{
 		"name": "GRE",
-		"nations":["SPQR","Italia","Numidia","Romania","Crimea","Tzarist_Ukraine","Arabia","Wrangel"],
+		"nations":["SPQR","Italia","Numidia","Romania","Crimea","Tzarist_Ukraine","Arabia","Wrangel","Aegyptus"],
 		"color": ["#B833FF", "#A000F5"]
 	},
 	{
@@ -51,7 +56,7 @@
 	},
 	{
 		"name": "Nubia",
-		"nations":["Sudan", "Nubia", "Ethiopia"],
+		"nations":["Nubia", "Kasai", "India", "Molodezhnaya", "Nejd", "Katanga", "Namibia", "Bura", "Songhai", "Ethiopia", "Sudan"],
 		"color": ["#FF44CC"]
 	},
 	{
@@ -71,7 +76,7 @@
 	},
 	{
 		"name": "Greater-Quebec",
-		"nations": ["Quebec", "Baffin", "Nouvelle-France", "Maine", "Canada", "Severny", "Algonquia", "Hall", "Iroquois", "ontario"],
+		"nations": ["Quebec", "Baffin", "Nouvelle-France", "Maine", "Canada", "Severny", "Algonquia", "Hall", "Iroquois", "ontario", "New_York", "New_Jersey", "Ohio"],
 		"color": ["#0044FF"]
 	},
 	{
